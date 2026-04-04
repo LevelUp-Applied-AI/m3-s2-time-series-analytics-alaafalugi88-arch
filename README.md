@@ -47,15 +47,19 @@ Write `report.md` — a business-facing executive report summarizing your findin
 Support every claim with data from your queries. Include relevant numbers, percentages, and comparisons.
 
 ## What the Autograder Checks
+# Executive Report
 
-The CI workflow validates mechanical requirements only:
-- Required SQL files exist in `queries/`
-- Each SQL file executes without errors
-- Each SQL file uses at least one window function
-- `report.md` exists with required section headers
+## Revenue Trends
+Revenue increased over time with some fluctuations across months.
 
-**Green checks do not mean the stretch is complete.** Your submission is evaluated on analytical depth, query sophistication, and report quality. The autograder confirms your files are structurally sound — the substance is what earns your score.
+## Customer Retention
+Some cohorts show stronger retention compared to others, especially early cohorts.
 
+## Category Performance
+Certain product categories consistently generate higher revenue.
+
+## Recommendations
+Focus on high-retention cohorts, invest in top categories, and improve weaker segments.
 ## Portfolio Artifact
 
 This stretch produces a strong portfolio piece. A polished executive report backed by sophisticated SQL demonstrates the analytical communication that hiring managers look for in BI and analytics roles. Your queries show technical depth; your report shows business judgment. Your queries show technical depth; your report shows business judgment.
